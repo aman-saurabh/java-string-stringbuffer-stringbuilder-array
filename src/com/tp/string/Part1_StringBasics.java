@@ -13,6 +13,8 @@ package com.tp.string;
  * new String(char[] c);
  * new String(StringBuffer sbr);
  * new String(StringBuilder sbl);
+ * Complete Syntax of String class:-
+ * public final class String extends Object implements Serializable, Comparable<String>, CharSequence;
  */
 public class Part1_StringBasics {
 	public static void main(String[] args) {
